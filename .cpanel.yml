@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home1/dbeleamy/public_html/deterministic-ui/
+    - /bin/cp -R * $DEPLOYPATH
