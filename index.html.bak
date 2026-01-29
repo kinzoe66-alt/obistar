@@ -120,7 +120,7 @@ function lockAndPrompt() {
     alert("Please enter a decision to analyze.");
     return;
   }
-  alert("TEST MODE: payment disabled.");
+  alert("Payment required to unlock deterministic analysis.");
 }
 </script>
 
